@@ -1,0 +1,22 @@
+﻿Systemutveckling i praktiken + GitHub
+
+## 1. Skillnaden mellan vattenfallsmodellen och agil metodik
+
+**Beskriv skillnaden mellan vattenfallsmodellen och agil metodik.  
+När bör man använda vilken, och varför?**
+
+### Vattenfallsmodellen
+- En sekventiell modell där varje steg av ett projekt måste slutföras innan nästa börjar.  
+- Du börjar med basen på ett projekt och fortsätter progressivt utan att kunna göra förändringar.  
+- Används ofta i utveckling av inbyggda system eftersom kraven är specifika och förändringar sällan behövs.  
+
+### Agil metodik
+- En iterativ metod där produkten utvecklas genom successiva iterationer.  
+- Man börjar smått, testar produkten, gör förändringar och lägger till nya funktioner tills den är fullt utvecklad.  
+- Vanligt inom apputveckling eftersom feedback från användare ofta kräver förändringar och förbättringar.  
+
+➡️ **Sammanfattning**:  
+Vattenfall kan inte gå tillbaka och ändra eller lägga till nya saker och följer en strikt struktur.  
+Agil metodik däremot tillåter förändringar och används oftast i moderna organisationer.
+
+---
