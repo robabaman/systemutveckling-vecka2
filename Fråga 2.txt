@@ -1,0 +1,21 @@
+## Git commit
+
+**Vad är ett Git-commit och varför är det viktigt?  
+Beskriv ett verkligt scenario där Git hjälper dig undvika problem.**
+
+## Svar
+Git commit är helt enkelt en funktion som sparar dina ändringar  
+du gör i en repository eller projekt.  
+
+Du kan se på det som en **checkpoint i ett spel**,  
+du gör en git-commit där du alltid kan gå tillbaka till  
+som medans du fortsätter att koda och gör ändringar.  
+
+Så om du t.ex. gör ändringar i en kod och du gillar inte vad du har gjort,  
+kan du alltid gå tillbaka till din förra commit.  
+
+Så git hjälper dig att undvika problem genom att man alltid kan gå tillbaka  
+till sin gamla commit även efter man pushar något till sitt team.
+De tittar på din git och ser att en del av koden funkar inte. 
+
+---
